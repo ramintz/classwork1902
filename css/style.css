@@ -1,0 +1,108 @@
+#search {
+    position: relative;
+}    
+
+#searchlogo {
+    position: absolute;
+    color: gray;
+    z-index: 1;
+}
+
+#sector1 {
+    background-image: url(../image/photo1.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#sector1 h6 {
+    letter-spacing: .4em;
+    color: rgb(255, 106, 155);
+    
+}
+
+#sector1 h1 {
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(250, 142, 0);}
+
+.sectortitle {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 200px 50px;
+}
+.input-group {
+   
+    margin-top: 60px;
+    border-radius: 50px;
+    background: white;
+    padding: 10px;
+    
+}
+.input-group .location {
+    position: relative;
+    border: none;
+    
+    
+}
+.input-group .what{
+    border: none;
+
+}
+.input-group i{
+    
+    color: gray;
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    bottom: 18px;
+}
+
+#sector1 .btn-group{
+    background-color: white;
+}
+
+#btnGroupDrop1 {
+    background-color: white;
+    color: black;
+    border-color: rgb(238, 235, 235);
+    border: 2px;
+}
+
+#sector2 .text-center {
+    padding: 100px 0;
+}
+
+#sector2 h4 {
+    font-weight: 600px;
+    color: #e83e8c;
+    font-size: 17px;
+    letter-spacing: 3px;
+}
+#sector2 h2 {
+    font-size: 44px;
+
+}
+#sector2 .map {
+
+
+}
+#sector2 i {
+    color: rgb(144, 144, 240);
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(234, 227, 250);
+    text-align: center;
+    line-height: 45px;
+}
+#sector h3 {
+    
+}
+
+
+
+
+
